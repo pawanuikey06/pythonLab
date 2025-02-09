@@ -1,0 +1,1 @@
+from scrip1 import *
